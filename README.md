@@ -1,6 +1,6 @@
 # Hi, I'm A'laa
 
-Computer Science student at [Helwan National University](http://www.hnu.edu.eg/), focused on backend development, databases, and data engineering. I build with Python, JavaScript, and C++, and train for competitive programming with the [HNU-FCSIT ICPC Community](https://www.facebook.com/fcsit.hnu.icpc).
+Computer Science student at [Helwan National University](http://www.hnu.edu.eg/), focused on backend development, databases, and data engineering. I build with Python, JavaScript, and C++, and train for competitive programming .
 
 Completed the Microsoft Data Engineering track at [DEPI](https://depi.gov.eg/).
 

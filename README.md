@@ -10,7 +10,7 @@ Completed the Microsoft Data Engineering track at [DEPI](https://depi.gov.eg/).
 - **[Round Robin OS Scheduler](http://github.com/alaamuhammed6666/OS-Project)**: Step-by-step simulation of the Round Robin CPU scheduling algorithm.
 - **[Vehicle Routing Problem](https://lnkd.in/giR9aicw)**: Genetic algorithm solver with a Pac-Man-inspired GUI that minimizes distance and respects capacity constraints.
 - **[Car Price Predictor](https://github.com/alaa-m0hammed/CAR-PRICE-PREDICTOR)**: scikit-learn pipeline on the Quikr dataset, deployed as a Flask web app.
--
+
 
 ## Tech Stack
 

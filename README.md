@@ -23,6 +23,6 @@ Completed the Microsoft Data Engineering track at [DEPI](https://depi.gov.eg/).
 
 ## Contact
 
-Email -> (alaasedeek07@gmail.com)
+- Email -> (alaasedeek07@gmail.com)
 
-LinkedIn -> (https://www.linkedin.com/in/a-laa-muhammed-0a9a29329/)
+- LinkedIn -> (https://www.linkedin.com/in/a-laa-muhammed-0a9a29329/)
